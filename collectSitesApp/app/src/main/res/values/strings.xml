@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">collectSitesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_clear">Clear completed</string>
+    <string name="menu_delete_task">Delete task</string>
+    <string name="refresh">Refresh</string>
+    <string name="bottom_title_collect">Collect</string>
+    <string name="bottom_title_site">Site</string>
+    <string name="bottom_title_more">More</string>
+    <string name="ad_attribution">Ad</string>
+</resources>
